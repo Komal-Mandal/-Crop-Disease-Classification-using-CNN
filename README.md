@@ -185,7 +185,6 @@ numpy
 
 ![Screenshot 2024-12-19 004120](https://github.com/user-attachments/assets/284a877a-2f89-4ed0-a117-f4737ec9d4bf)
 
-# 5.Access the app at http://localhost:8501.
 
 # 📂 File Structure
 
